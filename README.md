@@ -1,11 +1,11 @@
 Hospitality Data Analysis Project
-📌 Overview
+
+📌 **Overview**
 
 This project focuses on analyzing hospitality industry data to uncover key business insights related to bookings, revenue, customer behavior, and operational performance.
-
 The analysis was performed using Excel, SQL, and Power BI, enabling end-to-end data handling — from raw data cleaning to interactive dashboard creation.
 
-🎯 Objectives
+🎯 **Objectives**
 
 Analyze booking trends across time and locations
 
@@ -17,7 +17,7 @@ Evaluate hotel performance (occupancy, cancellations, etc.)
 
 Provide actionable insights for business decisions
 
-🧰 Tools & Technologies
+🧰 **Tools & Technologies**
 
 Excel → Data Cleaning, Pivot Tables, Exploratory Analysis
 
@@ -25,7 +25,7 @@ SQL → Data Extraction, Transformation, Aggregations
 
 Power BI → Dashboarding & Data Visualization
 
-📂 Dataset Description
+📂 **Dataset Description**
 
 The dataset includes multiple tables related to hotel operations:
 
@@ -51,8 +51,8 @@ City
 
 Room Type
 
-🔧 Data Cleaning & Preparation
-Excel:
+🔧 _Data Cleaning & Preparation_
+**Excel:**
 
 Removed duplicates
 
@@ -62,7 +62,7 @@ Standardized date formats
 
 Created calculated columns (Revenue, Stay Duration)
 
-SQL:
+**SQL:**
 
 Joins across multiple tables
 
@@ -72,70 +72,49 @@ Aggregations using GROUP BY
 
 Created views for reporting
 
-📊 Key Metrics (KPIs)
+📊 **Key Metrics (KPIs)**
 
--Total Revenue
+Total Revenue
 
--Total Bookings
+Total Bookings
 
--Occupancy Rate
+Occupancy Rate
 
--Cancellation Rate
+Cancellation Rate
 
--Average Daily Rate (ADR)
+Average Daily Rate (ADR)
 
--Revenue per Available Room (RevPAR)
+Revenue per Available Room (RevPAR)
 
-📈 Dashboard Features (Power BI)
+📈 **Dashboard Features (Power BI)**
 
--Revenue trend over time
+Revenue trend over time
 
--City-wise performance
+City-wise performance
 
--Booking status breakdown
+Booking status breakdown
 
--Room category analysis
+Room category analysis
 
--Occupancy vs Cancellation comparison
+Occupancy vs Cancellation comparison
 
--Interactive filters (City, Date, Room Type)
+Interactive filters (City, Date, Room Type)
 
-🔍 Key Insights
-📌 Revenue Insights
+🔍 _Key Insights_:
+📌 **Revenue Insights**
 
 Peak revenue observed during weekends and holiday seasons
 
 Luxury hotels generate higher revenue per booking
 
-📌 Customer Behavior
+📌 **Customer Behavior**
 
 High cancellation rate in certain cities
 
 Majority bookings come from specific room categories
 
-📌 Operational Insights
+📌 **Operational Insights**
 
 Some hotels have low occupancy but high pricing
-
 Business hotels show consistent performance
-
-⚠️ Challenges Faced
-
-Inconsistent date formats
-
-Missing values in booking records
-
-Data spread across multiple tables
-
-Handling large datasets in Excel
-
-✅ Solutions Implemented
-
-Used Power Query for transformation
-
-SQL joins for data consolidation
-
-Created calculated columns/measures in Power BI
-
-Optimized queries for performance
 
