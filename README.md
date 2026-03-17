@@ -6,6 +6,29 @@ Links:
 </a>
 
 
+
+## 📸 Dashboard Preview
+
+<p align="center">
+  <img src="images/dashboard_overview.png" width="800"/>
+</p>
+
+<p align="center">
+  <b>Overview Dashboard</b>
+</p>
+
+---
+
+<p align="center">
+  <img src="images/revenue_analysis.png" width="400"/>
+  <img src="images/booking_analysis.png" width="400"/>
+</p>
+
+<p align="center">
+  <b>Revenue Analysis & Booking Insights</b>
+</p>
+
+
 📌 **Overview**
 
 This project focuses on analyzing hospitality industry data to uncover key business insights related to bookings, revenue, customer behavior, and operational performance.
