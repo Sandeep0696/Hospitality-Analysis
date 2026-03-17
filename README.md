@@ -1,150 +1,136 @@
-Hospitality Data Analysis Project:
+📊 Hospitality Performance Analysis (Excel + Power BI)
+📌 Overview
 
-Links:
-<a href="https://github.com/Sandeep0696/Hospitality-Analysis/raw/main/Hospitality%20Analysis%20Dashboard.xlsx">
-  👉 Download Dashboard (Excel)
-</a>
+This project delivers a comprehensive analysis of hospitality data using both Excel and Power BI dashboards.
 
+It demonstrates end-to-end analytics:
 
+Data cleaning
 
-## 📸 Dashboard Preview
+Transformation
 
-<p align="center">
-  <img src="images/dashboard_overview.png" width="800"/>
-</p>
+Visualization
 
-<p align="center">
-  <b>Overview Dashboard</b>
-</p>
+Business insight generation
 
----
+The goal is to evaluate revenue performance, occupancy trends, and customer behavior to support data-driven decision-making.
 
-<p align="center">
-  <img src="images/revenue_analysis.png" width="400"/>
-  <img src="images/booking_analysis.png" width="400"/>
-</p>
+🎯 Objectives
 
-<p align="center">
-  <b>Revenue Analysis & Booking Insights</b>
-</p>
+Analyze revenue trends across properties and time
 
+Evaluate occupancy and capacity utilization
 
-📌 **Overview**
+Identify cancellation patterns and revenue leakage
 
-This project focuses on analyzing hospitality industry data to uncover key business insights related to bookings, revenue, customer behavior, and operational performance.
-The analysis was performed using Excel, SQL, and Power BI, enabling end-to-end data handling — from raw data cleaning to interactive dashboard creation.
+Compare weekday vs weekend performance
 
-🎯 **Objectives**
+Deliver actionable business insights
 
-Analyze booking trends across time and locations
+🧰 Tools & Technologies
 
-Identify revenue drivers and loss areas
+Excel → Operational dashboard & exploratory analysis
 
-Understand customer behavior patterns
+SQL → Data extraction and transformation
 
-Evaluate hotel performance (occupancy, cancellations, etc)
+Power BI → Analytical dashboard, data modeling, DAX
 
-Provide actionable insights for business decisions
+📊 Excel Dashboard
+📸 Preview
+<p align="center"> <img src="dashboard_overview.png" width="900"/> </p>
+🔍 Highlights
 
-🧰 **Tools & Technologies**
+Interactive slicers (City, Room Class, Category)
 
-Excel → Data Cleaning, Pivot Tables, Exploratory Analysis
+Weekly revenue trends
 
-SQL → Data Extraction, Transformation, Aggregations
+Occupancy vs bookings vs revenue comparison
 
-Power BI → Dashboarding & Data Visualization
+Property-level performance
 
-📂 **Dataset Description**
+📊 Power BI Dashboard
+📸 Preview
+<p align="center"> <img src="images/powerbi_dashboard.png" width="900"/> </p>
+⚡ Features
 
-The dataset includes multiple tables related to hotel operations:
+Clean KPI tracking (Revenue, Occupancy, Bookings, Cancellation)
 
-Table Name	Description
-Bookings	Booking details (ID, date, status, etc.)
-Hotels	Hotel information (city, category, etc.)
-Rooms	Room types and pricing
-Customers	Customer demographics
-Dates	Date dimension for time analysis
-Key Columns:
+Revenue breakdown by:
 
-Booking ID
+Property
 
-Check-in / Check-out Date
+Booking status
 
-Booking Status (Cancelled, Checked-out, No-show)
+Room class
 
-Revenue
+Weekly trend analysis
 
-Hotel Category (Luxury / Business)
+Interactive filtering and cross-highlighting
 
-City
+📥 Access Dashboard
 
-Room Type
+👉 <a href="https://github.com/Sandeep0696/Hospitality-Analysis/raw/main/Hospitality%20Analysis%20Dashboard.xlsx">Download Excel Dashboard</a>
 
-🔧 _Data Cleaning & Preparation_
-**Excel:**
+👉 (Add Power BI link here if published)
 
-Removed duplicates
+📊 Key Metrics
 
-Handled missing/null values
+Total Revenue: ₹1,708 Cr
 
-Standardized date formats
+Occupancy Rate: ~58%
 
-Created calculated columns (Revenue, Stay Duration)
+Cancellation Rate: ~25%
 
-**SQL:**
+Total Bookings: ~135K
 
-Joins across multiple tables
+🔍 Key Insights
 
-Filtering inconsistent records
+Weekday revenue significantly exceeds weekend performance
 
-Aggregations using GROUP BY
+Cancellation rate (~25%) indicates notable revenue leakage
 
-Created views for reporting
+Certain properties (e.g., Atliq Exotica) dominate revenue contribution
 
-📊 **Key Metrics (KPIs)**
+Luxury and premium room classes generate the highest revenue
 
-Total Revenue
+Occupancy (~58%) suggests room for optimization
 
-Total Bookings
+⚠️ Challenges
 
-Occupancy Rate
+Handling multi-table dataset
 
-Cancellation Rate
+Data consistency issues (dates, missing values)
 
-Average Daily Rate (ADR)
+Maintaining performance in Excel
 
-Revenue per Available Room (RevPAR)
+Ensuring consistent dashboard design
 
-📈 **Dashboard Features (Power BI)**
+✅ Solutions
 
-Revenue trend over time
+Power Query for transformation
 
-City-wise performance
+SQL joins for structured data
 
-Booking status breakdown
+Standardized KPI calculations
 
-Room category analysis
+Consistent visual design across tools
 
-Occupancy vs Cancellation comparison
+📌 Conclusion
 
-Interactive filters (City, Date, Room Type)
+This project demonstrates how combining Excel and Power BI enables:
 
-🔍 _Key Insights_:
+Operational monitoring (Excel)
 
-📌 **Revenue Insights**
+Strategic insights (Power BI)
 
-Peak revenue observed during weekends and holiday seasons
+It highlights opportunities to:
 
-Luxury hotels generate higher revenue per booking
+Improve occupancy
 
-📌 **Customer Behavior**
+Reduce cancellations
 
-High cancellation rate in certain cities
+Optimize pricing and performance
 
-Majority bookings come from specific room categories
+⭐ If you found this useful
 
-📌 **Operational Insights**
-
-Some hotels have low occupancy but high pricing
-Business hotels show consistent performance
-
+Give it a ⭐ on GitHub and feel free to connect!
