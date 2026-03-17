@@ -1,4 +1,4 @@
-📊 Hospitality Performance Analysis (Excel + Power BI)
+📊 Hospitality Performance Analysis (Excel + Power BI + SQL)
 📌 Overview
 
 This project delivers a comprehensive analysis of hospitality data using both Excel and Power BI dashboards.
@@ -36,6 +36,7 @@ SQL → Data extraction and transformation
 Power BI → Analytical dashboard, data modeling, DAX
 
 📊 Excel Dashboard
+
 📸 Preview
 <p align="center"> <img src="dashboard_overview.png" width="900"/> </p>
 🔍 Highlights
@@ -50,7 +51,7 @@ Property-level performance
 
 📊 Power BI Dashboard
 📸 Preview
-<p align="center"> <img src="images/powerbi_dashboard.png" width="900"/> </p>
+<p align="center"> <img src="powerbi_dashboard.png" width="900"/> </p>
 ⚡ Features
 
 Clean KPI tracking (Revenue, Occupancy, Bookings, Cancellation)
@@ -69,9 +70,9 @@ Interactive filtering and cross-highlighting
 
 📥 Access Dashboard
 
-👉 <a href="https://github.com/Sandeep0696/Hospitality-Analysis/raw/main/Hospitality%20Analysis%20Dashboard.xlsx">Download Excel Dashboard</a>
+👉 <a href="Hospitality Analysis Dashboard.xlsx">Download Excel Dashboard</a>
 
-👉 (Add Power BI link here if published)
+👉 <a href="Hospitality Dashboard.pbix">Download Power BI Dashboard</a>
 
 📊 Key Metrics
 
@@ -94,42 +95,6 @@ Certain properties (e.g., Atliq Exotica) dominate revenue contribution
 Luxury and premium room classes generate the highest revenue
 
 Occupancy (~58%) suggests room for optimization
-
-⚠️ Challenges
-
-Handling multi-table dataset
-
-Data consistency issues (dates, missing values)
-
-Maintaining performance in Excel
-
-Ensuring consistent dashboard design
-
-✅ Solutions
-
-Power Query for transformation
-
-SQL joins for structured data
-
-Standardized KPI calculations
-
-Consistent visual design across tools
-
-📌 Conclusion
-
-This project demonstrates how combining Excel and Power BI enables:
-
-Operational monitoring (Excel)
-
-Strategic insights (Power BI)
-
-It highlights opportunities to:
-
-Improve occupancy
-
-Reduce cancellations
-
-Optimize pricing and performance
 
 ⭐ If you found this useful
 
