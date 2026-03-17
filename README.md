@@ -1,4 +1,8 @@
-Hospitality Data Analysis Project
+Hospitality Data Analysis Project:
+
+Links:
+Excel Dashboard: <a href="https://github.com/Sandeep0696/Hospitality-Analysis/blob/main/Hospitality%20Analysis%20Dashboard.xlsx"></a>
+
 
 📌 **Overview**
 
@@ -13,7 +17,7 @@ Identify revenue drivers and loss areas
 
 Understand customer behavior patterns
 
-Evaluate hotel performance (occupancy, cancellations, etc.)
+Evaluate hotel performance (occupancy, cancellations, etc)
 
 Provide actionable insights for business decisions
 
@@ -101,6 +105,7 @@ Occupancy vs Cancellation comparison
 Interactive filters (City, Date, Room Type)
 
 🔍 _Key Insights_:
+
 📌 **Revenue Insights**
 
 Peak revenue observed during weekends and holiday seasons
