@@ -1,7 +1,9 @@
 Hospitality Data Analysis Project:
 
 Links:
-Excel Dashboard: <a href="https://github.com/Sandeep0696/Hospitality-Analysis/blob/main/Hospitality%20Analysis%20Dashboard.xlsx"></a>
+<a href="https://github.com/Sandeep0696/Hospitality-Analysis/raw/main/Hospitality%20Analysis%20Dashboard.xlsx">
+  👉 Download Dashboard (Excel)
+</a>
 
 
 📌 **Overview**
